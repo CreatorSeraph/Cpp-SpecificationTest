@@ -39,3 +39,5 @@
 *.suo
 *.db
 *.opendb
+*.iobj
+*.ipdb
