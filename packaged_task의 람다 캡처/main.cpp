@@ -2,6 +2,11 @@
 #include <iostream>
 #include <functional>
 
+//https://stackoverflow.com/questions/36958929/error-on-moving-a-packaged-task-object-to-lambda-capture
+//https://github.com/progschj/ThreadPool/issues/40
+//https://stackoverflow.com/questions/32486623/moving-a-lambda-once-youve-move-captured-a-move-only-type-how-can-the-lambda
+//https://stackoverflow.com/questions/25330716/move-only-version-of-stdfunction
+
 int main()
 {
     using namespace std;
