@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "가상함수 테이블의 형태, 캐스팅 연산자", "가상함수 테이블의 형태, 캐스팅 연산자.vcxproj", "{9887B47D-BE03-4484-9227-380630FB6905}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9887B47D-BE03-4484-9227-380630FB6905}.Debug|x64.ActiveCfg = Debug|x64
+		{9887B47D-BE03-4484-9227-380630FB6905}.Debug|x64.Build.0 = Debug|x64
+		{9887B47D-BE03-4484-9227-380630FB6905}.Debug|x86.ActiveCfg = Debug|Win32
+		{9887B47D-BE03-4484-9227-380630FB6905}.Debug|x86.Build.0 = Debug|Win32
+		{9887B47D-BE03-4484-9227-380630FB6905}.Release|x64.ActiveCfg = Release|x64
+		{9887B47D-BE03-4484-9227-380630FB6905}.Release|x64.Build.0 = Release|x64
+		{9887B47D-BE03-4484-9227-380630FB6905}.Release|x86.ActiveCfg = Release|Win32
+		{9887B47D-BE03-4484-9227-380630FB6905}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1495454A-55B2-478E-8DF0-A8CD891896A0}
+	EndGlobalSection
+EndGlobal
